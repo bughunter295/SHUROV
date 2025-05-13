@@ -1,0 +1,14 @@
+GET /privacy HTTP/2
+Host: www.getaroom.com
+Accept-Encoding: gzip, deflate, br
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+Cache-Control: max-age=0
+Cookie: www_session=kd3C1YFGaG9OXV7KpnzoUrIhLAwzwGAbgHVxd2Gjm%2BkZFFXODil%2FJRvs8P0QstkLcyxZ%2FJs9vgNKdre07Pt5pLxS6wiQsqtqbBJXgEbNAwJasn6%2BXIQUhfTHgDBd6a%2Fe1Uu8oMoDZRlU%2FpB64GFrFdtn9E4CdQpPMT9RvCIsWQaHBtLPKc%2BC%2FMgn1%2FInOGZ0rkXZF3%2F1lEQ4b5vTICjGRbO4uVkbjYxXBXMhaD2TOexpXskaJZCtZmUm6Wjz%2FKq8PJ0IwgJQZ3nvyVXZztRtLSpIvmoqqUhZ23gVukrQqc5XDKhJYqn6Uy%2BU4nsRxCjp9cf%2FkS0%2FJ9hrZKbD5J0E6Iji4Hfq3054jjb2M%2BkkTTtgo%2BemynWQ9jca9IemSCpQV2dSWDljh%2FuxIfKC0wTEXlOqoGyEWBcU9Jt90IDXc9hpUDAQPI4ZsaAMHes1lQ3V%2B4Nmhdj0aV%2FwuzqOz66ZftyYcFk8Zn1G5eaoeex6%2BrM4VO8xI%2F8ms6ZknEeOkXXorC4Cr8b0GvA3gu2vMw%3D%3D--udjpYe5px1oCEqUo--jOCSK6twyQjuWbOiz%2BtVpQ%3D%3D; _ga=GA1.2.589225745.1747141058; _gid=GA1.2.1794221945.1747141058; _gat=1; _gcl_au=1.1.352962763.1747141059; _gat_alpha_tracker=1; _uetsid=d99775002ff911f080054b7cae7edb70; _uetvid=d99794d02ff911f08e23dd521aceb8ec; _ga_RTJRZMJHG6=GS2.2.s1747141059$o1$g0$t1747141059$j60$l0$h0; OptanonConsent=isGpcEnabled=0&datestamp=Tue+May+13+2025+18%3A57%3A40+GMT%2B0600+(Bangladesh+Standard+Time)&version=202305.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9c651835-9431-43d2-a918-be950b88dd8e&interactionCount=1&landingPath=https%3A%2F%2Fwww.getaroom.com%2Fgo-to-priceline&groups=C0001%3A1%2CC0003%3A1%2CSPD_BG%3A1%2CC0002%3A1%2CC0004%3A1
+Upgrade-Insecure-Requests: 1
+Referer: https://www.getaroom.com/go-to-priceline
+Sec-Ch-Ua: "Chromium";v="133", "Not;A=Brand";v="24", "Google Chrome";v="133"
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Mobile: ?0
+
